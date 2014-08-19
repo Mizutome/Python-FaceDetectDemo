@@ -1,0 +1,8 @@
+####################################
+
+IMPORTANCE: #Need to install OpenCV#
+
+####################################
+
+This demo show is using face detecting to input number (as a phonenumber or password system)
+Run FacedetectDemo.py to see this demo
